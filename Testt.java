@@ -1,5 +1,5 @@
 package collection.java;
 
-public class Test {
+public class Testt {
 
 }
